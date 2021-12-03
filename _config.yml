@@ -34,7 +34,7 @@ author: Kari Kelly
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: Short Metadata Version Final - Drafting
+metadata: Supply Collection Striped Down - Sheet1
 
 ##########
 # GOOGLE SERVICES [optional!]
